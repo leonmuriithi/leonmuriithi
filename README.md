@@ -1,7 +1,7 @@
 ### Hi there, I'm Leon Muriithi 👋
 **Lead Mobile Architect | Full-Stack Engineer | AI & Automation Specialist**
 
-I am a specialized developer building high-performance systems for the African market. My expertise spans **Logistics** (Transit Systems), **Marketplaces** (MERN Stack), and **Algorithmic Automation** (Python/ML).
+I am a specialized developer building high-performance systems for the African market. My expertise spans **Logistics** (Transit Systems), **Fintech** (High-Volume Ledgers), and **Algorithmic Automation**.
 
 I don't just write code; I architect secure, scalable solutions that solve real business problems.
 
@@ -13,6 +13,7 @@ I don't just write code; I architect secure, scalable solutions that solve real 
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 **Full-Stack Web**
@@ -29,15 +30,17 @@ I don't just write code; I architect secure, scalable solutions that solve real 
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-**Security & Ops**
+**Security & DevOps**
 ![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
 #### 🔭 Current & Past Focus
 - **[TransitCore](https://github.com/leonmuriithi/transit-core-poc):** Architecting a dynamic seat reservation engine with graph-based routing (Flutter/Node.js).
+- **[Enterprise Ledger](https://github.com/leonmuriithi/enterprise-ledger-api):** Built a double-entry accounting microservice handling 500+ TPS using TypeScript & BullMQ.
+- **[AWS Infra](https://github.com/leonmuriithi/aws-logistics-infra):** Automated cloud infrastructure deployment using Docker Swarm and Nginx.
 - **[JuaConnect](https://github.com/leonmuriithi/juaconnect-marketplace):** Built a full-stack Skilled Labor Marketplace using React 19 and Express 5.
-- **[CryptoAutoTrade](https://github.com/leonmuriithi/algorithmic-crypto-bot):** Engineered an HFT bot featuring **XGBoost** prediction, **Rug Pull Detection**, and a **Flask** monitoring dashboard.
-- **Security:** Conducting penetration testing and API hardening using Kali Linux tools.
+- **[CryptoAutoTrade](https://github.com/leonmuriithi/algorithmic-crypto-bot):** Engineered an HFT bot featuring **XGBoost** prediction, **Rug Pull Detection**, and a **Flask** dashboard.
