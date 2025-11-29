@@ -25,7 +25,9 @@ I don't just write code; I architect secure, scalable solutions that solve real 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-FLASK-red)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 **Security & Ops**
 ![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
@@ -35,7 +37,7 @@ I don't just write code; I architect secure, scalable solutions that solve real 
 ---
 
 #### 🔭 Current & Past Focus
-- **TransitCore:** Architecting a dynamic seat reservation engine with graph-based routing (Flutter/Node.js).
-- **JuaConnect:** Built a full-stack Skilled Labor Marketplace using React 19 and Express 5.
-- **CryptoAutoTrade:** Engineered an automated trading bot using **Regression Trees** and **XGBoost** for market prediction.
+- **[TransitCore](https://github.com/leonmuriithi/transit-core-poc):** Architecting a dynamic seat reservation engine with graph-based routing (Flutter/Node.js).
+- **[JuaConnect](https://github.com/leonmuriithi/juaconnect-marketplace):** Built a full-stack Skilled Labor Marketplace using React 19 and Express 5.
+- **[CryptoAutoTrade](https://github.com/leonmuriithi/algorithmic-crypto-bot):** Engineered an HFT bot featuring **XGBoost** prediction, **Rug Pull Detection**, and a **Flask** monitoring dashboard.
 - **Security:** Conducting penetration testing and API hardening using Kali Linux tools.
