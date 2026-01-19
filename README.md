@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=System%20Architecture%20&desc=High-Performance%20Logistics%20%26%20Fintech%20Engines&fontSize=70&fontAlignY=35&descAlignY=60&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=220&section=header&text=Systems%20Architecture&desc=High-Performance%20Logistics%20%26%20Algorithmic%20Trading&fontSize=60&fontAlignY=38&descAlignY=58&fontColor=ffffff&animation=fadeIn" />
 </div>
 
 ###  **Full Stack Systems Engineer | AI & Automation Specialist**
 
-I am a systems engineer building **fault-tolerant distributed architectures** for the African market. My work bridges the gap between **Logistics** (Offline-First Transit Systems) and **Fintech** (High-Volume Fraud Detection).
+I am a systems engineer building **fault-tolerant distributed architectures** for the African market. My work bridges the gap between **Logistics** (Offline-First Transit Systems) and **Fintech** (High-Frequency Trading & Fraud Detection).
 
 > *Focus: Latency Optimization • Distributed Messaging (Kafka) • Infrastructure Automation*
 
@@ -27,11 +27,17 @@ I am a systems engineer building **fault-tolerant distributed architectures** fo
 
 ###  Engineering Highlights
 
+####  [Algorithmic Crypto Bot](https://github.com/leonmuriithi/algorithmic-crypto-bot)
+> *High-Frequency Trading Automation*
+* **Strategy:** Predictive volatility modeling using **XGBoost** and raw data aggregation via **Selenium**.
+* **Performance:** Reduced execution latency by **40%** using multi-threaded architecture.
+* **Status:** 🟢 Live Strategy
+
 ####  [Sentinel Fraud Engine](https://github.com/leonmuriithi/sentinel-fraud-engine)
 > *Event-Driven Microservice Architecture*
 * **Architecture:** Decoupled fraud detection using **Apache Kafka** and **Redis**.
 * **Performance:** Achieved **12ms end-to-end latency** for anomaly detection using **Isolation Forest**.
-* **Status:** 🟢 Production Ready (Docker Swarm)
+* **Status:** 🟢 Production Ready
 
 ####  [AWS Logistics Infrastructure](https://github.com/leonmuriithi/aws-logistics-infra)
 > *DevOps & Infrastructure as Code (IaC)*
@@ -43,12 +49,10 @@ I am a systems engineer building **fault-tolerant distributed architectures** fo
 > *Offline-First Logistics Engine*
 * **Challenge:** Solving "Double Booking" in low-connectivity zones.
 * **Solution:** Implemented **SQLCipher** for local encrypted storage and an optimistic sync queue.
-* **Status:** 🟡 Active Development (Proof of Concept)
+* **Status:** 🟡 Active Development
 
 ---
 
-###  Code Metrics
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonmuriithi&layout=compact&theme=radical&hide=html,css" />
+  <i>"I don't just write code; I architect systems that survive the real world."</i>
 </div>
