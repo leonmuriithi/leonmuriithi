@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=220&section=header&text=Systems%20Architecture&desc=High-Performance%20Logistics%20%26%20Algorithmic%20Trading&fontSize=60&fontAlignY=38&descAlignY=58&fontColor=ffffff&animation=fadeIn" />
-</div>
-
 ###  **Full Stack Systems Engineer | AI & Automation Specialist**
 
 I am a systems engineer building **fault-tolerant distributed architectures** for the African market. My work bridges the gap between **Logistics** (Offline-First Transit Systems) and **Fintech** (High-Frequency Trading & Fraud Detection).
