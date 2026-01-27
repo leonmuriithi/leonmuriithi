@@ -33,7 +33,7 @@ I am a systems engineer building **fault-tolerant distributed architectures** fo
 ####  [Sentinel Fraud Engine](https://github.com/leonmuriithi/sentinel-fraud-engine)
 > *Event-Driven Microservice Architecture*
 * **Architecture:** Decoupled fraud detection using **Apache Kafka** and **Redis**.
-* **Performance:** Achieved **12ms end-to-end latency** for anomaly detection using **Isolation Forest**.
+* **Performance:** Achieved **15ms end-to-end latency** for anomaly detection using **Isolation Forest**.
 * **Status:** 🟢 Production Ready
 
 ####  [AWS Logistics Infrastructure](https://github.com/leonmuriithi/aws-logistics-infra)
