@@ -47,7 +47,7 @@ I am a systems engineer building **fault-tolerant distributed architectures** fo
 * **Solution:** Implemented **SQLCipher** for local encrypted storage and an optimistic sync queue.
 * **Status:** 🟡 Active Development
 
-### Sauti-Ledger [AI Voice POS](https://github.com/leonmuriithi/sauti-ledger-demo)
+### [Sauti-Ledger AI Voice POS](https://github.com/leonmuriithi/sauti-ledger-demo)
 > *Multimodal AI & Natural Language Processing**
 * **Architecture:** Integrated **Google Gemini 2.0 Flash** for zero-shot parsing of mixed-language (Swahili/Sheng) voice data into structured financial JSON.
 * **Solution:** Built a dynamic, context-aware prompt engine that handles real-time inventory lookups and "on-the-fly" price overrides without database latency.
