@@ -6,8 +6,6 @@ I am a systems engineer building **fault-tolerant distributed architectures** fo
 
 ---
 
-###  Technical Arsenal
-
 <div align="center">
 
 | **Systems & Infra** | **Core Stack** | **Specialized** |
